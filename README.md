@@ -1,4 +1,3 @@
-# hello-world
-Introduction exercise
+# test-repo
 
-I am a statistician trying to increase my understanding of data science.
+This is a test repo.
